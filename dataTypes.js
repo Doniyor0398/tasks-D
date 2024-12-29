@@ -112,4 +112,3 @@ while (i < numbers.length) {
   console.log(numbers[i]);
   i++;
 }
-console.log("Doniyorbek");
